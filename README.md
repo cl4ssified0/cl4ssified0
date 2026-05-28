@@ -11,8 +11,7 @@ Minecraft Bedrock Developer • PocketMine-MP • HCF/UHCF Systems
 I'm a developer focused on Minecraft Bedrock servers using PocketMine-MP.
 
 I mainly work on:
-- HCF/UHCF cores
-- PvP systems
+- HCF - UHCF cores
 - Custom events
 - Scoreboards
 - Economy systems
